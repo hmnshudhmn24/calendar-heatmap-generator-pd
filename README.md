@@ -40,7 +40,3 @@ streamlit run app/main.py
 - `app/main.py` — Main Streamlit script
 - `data/sample.csv` — Sample time-based dataset
 - `README.md` — Project documentation
-
----
-
-🔥 Powered by Pandas, Seaborn, and Streamlit for beautiful data-driven calendars!
